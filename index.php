@@ -75,7 +75,7 @@
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.php">
-                                <img src="assets/images/logo.png" alt="Logo" height="30px">
+                                <img src="assets/images/mimap_logo.png" alt="Logo" height="30px">
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -139,7 +139,7 @@
             </div> <!-- container -->
             <div class="header-hero-image d-flex align-items-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="1.1s">
                 <div class="image">
-                    <img src="assets/images/bild.png" alt="Hero bild">
+                    <img src="assets/images/mimap.png" alt="mimap">
                 </div>
             </div> <!-- header hero image -->
         </div> <!-- header hero -->
@@ -837,7 +837,7 @@
                     <div class="col-lg-3 col-sm-6 order-sm-1 order-lg-1">
                         <div class="footer-about pt-40">
                             <a href="#">
-                                <img src="assets/images/logo.png" alt="Logo">
+                                <img src="assets/images/mimap-logo.png" alt="Logo">
                             </a>
                             <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus, repudiandae! Totam, nemo sed? Provident.</p> <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus</p>
                         </div> <!-- footer about -->
